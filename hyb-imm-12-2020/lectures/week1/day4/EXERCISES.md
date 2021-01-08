@@ -1,0 +1,4 @@
+# Day 4 Exercises
+
+* Complete Small Exercises 1-8 in the _Lists, Strings, and Tuples_ section of the Learning Portal: [https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/sequences/#small](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/sequences/#small)
+* Complete Small Exercises 1-3 in the _Mapping: Dictionaries and File I/O_ section of the Learning Portal: [https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/mapping/#small](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/mapping/#small)

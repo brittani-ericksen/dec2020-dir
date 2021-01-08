@@ -1,0 +1,17 @@
+html {
+    font-size: 22px;
+}
+
+div {
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+.wrapper {
+    background-color: blueviolet;
+    margin-bottom: 48px;
+}
+
+#two {
+    background-color: aqua;
+}

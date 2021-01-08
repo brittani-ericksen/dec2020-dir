@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles/index.css">
+        <title>Madlibs for Mad Lads</title>
+    </head>
+    <body>
+        <header>
+            <div class="wrapper">
+                <h1>Madlibs</h1>
+            </div>
+        </header>
+        <main>
+            <div class="wrapper">
+                <section>
+                    <form id="generateMadlib" action="#" method="POST">
+                        <!-- label not wrapped, for points to input's id -->
+                        <label for="myName">My name:</label> 
+                            <input type="text" name="myName" id="myName" placeholder="What is your name?" />
+                        <!-- wrap label around input -->
+                        <label>
+                            My favorite subject:
+                            <input type="text" name="mySubject" id="mySubject" placeholder="What is your favorite subject?" />
+                        </label>
+                        <button type="submit">Generate Madlib</button>
+                    </form>
+                </section>
+                <section>
+                    <p>My name is <span id="nameResponse" class="madlib_placeholder"></span> and my favorite subject is <span id="subjectResponse" class="madlib_placeholder"></span>.</p>
+                </section>
+            </div>
+        </main>
+    </body>
+    <script src="scripts/index.js"></script>
+</html>
