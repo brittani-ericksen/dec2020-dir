@@ -1,0 +1,15 @@
+{
+  "name": "dev_says",
+  "version": "0.0.1",
+  "description": "A node exercise using the awesome dev jokes npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Brittani Ericksen",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-dev-jokes": "^1.0.3"
+  }
+}
